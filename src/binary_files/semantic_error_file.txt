@@ -1,0 +1,4035 @@
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Classics Illustrated - Cultural History, with Illustrations",William B. Jones Jr.,49.5,9780786410774,CCB,2001
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Popeye: Illustrated Cultural History,Fred M. Grandinetti,39.95,9780786416059,CCB,2004
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Comics Buyer's Guide Standard Catalog of Comic Books,John Jackson Miller & Maggie Thompson & Peter Bickford & Brent Frankenhoff,24.95,087349993X,CCB,2005
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dr. Seuss Catalog - An Annotated Guide To Works By Theodor Geisel In All Media, Writings About Him, And Appearances of Characters And Places In The Books, Stories And Films",Richard H.F. Lindemann,35.95,9780786422234,CCB,2005
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Film Cartoons - A Guide To 20th Century American Animated Features And Shorts,Douglas L. McCall,30.95,9780786424504,CCB,2005
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Private Eyes In the Comics,John A. Dinan,9.95,159393002X,CCB,2005
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid price
+Record: Superman - The Complete History,Lee Daniels,-12.95,0811842312,CCB,2005
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Animated Film Encyclopedia - A Complete Guide To American Shorts, Features, And Sequences, 1900-1979 (Volumes 1 & 2)",Graham Webb,66.95,9780786428595,CCB,2006
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Worlds of Tomorrow - The Amazing Universe of Science Fiction Art,Forrest J. Ackerman & Brad Linaweaver,29.95,188805493X,CCB,2006
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Blondie - The Bumstead Family History,Dean Young & Melena Ryzik,24.95,140160322X,CCB,2007
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Doc Savage - A History of the Doc Savage Adventures in Pulps, Paperbacks, Comics, Fanzine, Radio and Film",Robert Michael Bobb Carter,44.95,9780786441358,CCB,2009
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Kurtzman, Harvey - The Art of Harvey Kurtzman: The Mad Genius of Comics",Nick Freeth & Denis Kitchen & Paul Buhle,29.95,9780810972964,CCB,2009
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Manga Monster Madness,David Okum,16.95,158180606X,CCB,2009
+
+Semantic error in file: Cartoons_Comics_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Underground Classics - The Transformation of Comics Into Comix,Karen Schoemer,24.95,9780810905986,CCB,2009
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Collecting Western Memorabilia,Tim Lasiuta,30.95,9780786416608,HCB,2004
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Christie's Century of Teddy Bears,Leyla Maniera,19.95,082300645X,HCB,2005
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Monroe, Marilyn Collectibles",Clark Kidder,2.95,038079909X,HCB,2005
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Firman, Pete - Tricks to Freak Out Your Friends",Pete Firman,12.95,9781556526954,HCB,2008
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Great Monster Magazines - 1950s, 1960s, and 1970s",Robert Michael Bobb Cotter,39.95,9780786433896,HCB,2008
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Antique Trader Collectible Paperback Price Guide,Gary Lovisi,16.95,089689634X,HCB,2009
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Collector's Guide To Classic O-Gauge Trains,David Doyle,16.95,9780896894570,HCB,2009
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Collector's Guide To Prewar Lionel Trains 1900-1942,David Doyle,16.95,9780896894624,HCB,2009
+
+Semantic error in file: Hobbies_Collectibles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Warman's Coca-Cola Collectibles Identification & Price Guide,Allan Petretti,19.95,0898693111,HCB,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Carney, Art - A Biography",Michael Seth Starr,11.95,1557835659,MTV,1905
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: Hitchcock's London: A Reference Guide to Locations,Gary Giblin,19.95,188766467X,MTV,1905
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: Modern Amazons: Warrior Women on Screen,Dominique Mainon & James Ursini,19.95,1879103272,MTV,1905
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: You're Not Old Enough Son,Barry Atkinson,19.95,1887664688,MTV,1905
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: Gunsmoke - A Complete History And Analysis of The Legendary Broadcast Series With A Comprehensive Episode - By - Episode Guide To Both The Radio And Television Programs,Suzanne Barabas & Gabor Barabas,85.5,9780899504186,MTV,1990
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Horror Film Directors, 1931 - 1990",Dennis Fischer,85.5,9780899506098,MTV,1991
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Lewis, Jerry - An Analytical Filmography of The Innovative Comic",James L. Neibaur & Ted Okuda,44.95,9780899509617,MTV,1994
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Hammer Films - An Exhaustive Filmography,Tom Johnson & Deborah Del Vecchio,66.95,9780786400348,MTV,1995
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "B Western Actors Encyclopedia - Facts, Photos And Filmographies For More Than 250 Familiar Faces",Ted Holland,35.95,9780786404759,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Dark City - The Film Noir,Spencer Selby,30.95,9780786404780,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Dark Romance - Sexuality In The Horror Film,David J. Hogan,30.95,9780786404742,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Golden Corral - A Roundup of Magnificent Western Films,Ed Andreychuk,30.95,9780786403936,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: In The Nick of Time - Motion Picture Sound Serials,William C. Cline,30.95,9780786404711,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Jump Cut! - Memoirs of A Pioneer Television Editor,Arthur Schneider,30.95,9780786403455,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Keep Watching The Skies! - American Science Fiction Movies of The Fifties,Bill Warren,44.95,9780786404797,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Meyer, Russ - The Life And Films: A Biography And A Comprehensive, Illustrated And Annotated Filmography And Bibliography",David K. Frasier,30.95,9780786404728,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Ryan, Ryan - A Biography And Critical Filmography",Franklin Jarlett,30.95,9780786404766,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Stars of Hollywood Remembered - Career Biographies of 82 Actors And Actresses of The Golden Era, 1920S - 1950S",J.G. Ellrod,35.95,9780786402946,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Western Movies - A TV and Video Guide to 4,200 Genre Films",Michael R. Pitts,39.95,9780786404216,MTV,1997
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: 3-D Movies - A History And Filmography of Stereoscopic Cinema,R.M. Hayes,35.95,9780786405787,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Cameras In The Courtroom - Television And The Pursuit of Justice,Marjorie Cohn & David Dow,39.95,9780786405022,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Columbia Comedy Shorts,Ted Okuda & Edward Watz,30.95,9780786405770,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Making Movies On Your Own - Practical Talk From Independent Filmmakers,Kevin J. Lindenmuth,35.95,9780786405176,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Westerns - Major And Minor Series, 1946 - 1978",Richard West,30.95,9780786405794,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Tourneur, Jacques - The Cinema of Nightfall",Chris Fujiwara,44.95,9780786404919,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Western Gunslingers In Fact And On Film - Hollywood's Famous Lawmen And Outlaws,Buck Rainey,39.95,9780786403967,MTV,1998
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Burr, Raymond - A Film, Radio and Television Biography",Ona L. Hill,30.95,9780786408337,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Horror In Silent Films - A Filmography, 1896 - 1929",Roy Kinnard,30.95,9780786407514,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Monogram Checklist,Ted Okuda,35.95,9780786407507,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Poverty Row Horrors!,Tom Weaver,30.95,9780786407989,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Vanishing Legion - A History of Mascot Pictures, 1927 - 1935",Jon Tuska,30.95,9780786407491,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wayne, John - Actor, Artist, Hero",Richard D. McGhee,30.95,9780786407521,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Western Movie Quotations,Jim Kane,44.95,9780786405947,MTV,1999
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Arthurian Legends On Film And Television,Bert Olton,39.95,9780786407187,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Colonial America On Film And Television - A Filmography,Bertil O. Osterberg,66.95,9780786408627,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cyborgs, Santa Claus And Satan - Science Fiction, Fantasy And Horror Films Made For Television",Fraser A. Sherman,29.95,9780786407934,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Encyclopedia of Film Themes, Settings And Series",Richard B. Armstrong & Mary Willems Armstrong,112.5,9780786408931,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Fantasy Femmes of Sixties Cinema - Interviews With 20 Actresses From Biker, Beach, And Elvis Movies",Tom Lisanti,39.95,9780786408689,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Films of The Seventies - A Filmography of American, British And Canadian Films 1970 - 1979",Marc Sigoloff,44.95,9780786408825,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Golden Images - 41 Essays On Silent Film Stars,Eve Golden,35.95,9780786408344,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hong Kong Filmography, 1977 - 1997 - A Complete Reference To 1,100 Films Produced By British Hong Kong Studios",John Charles,66.95,9780786408429,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: I Have A Lady In The Balcony - Memoirs of A Broadcaster In Radio And Television,George Ansbro,39.95,9780786404254,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Ness, Eliot And The Untouchables - The Historical Reality And The Film And Television Depictions",Kenneth Tucker,30.95,9780786407729,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Nitrate Won't Wait - A History of Film Preservation In The United States,Anthony Slide,30.95,9780786408368,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Poplit, Popcult And The X - Files - A Critical Exploration",Jan Delasara,35.95,9780786407897,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Republic Chapterplays - A Complete Filmography of The Serials Released By Republic Pictures Corporation, 1934 - 1955",R.M. Hayes,35.95,9780786409341,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Science Fiction Film Directors, 1895 - 1998",Dennis Fischer,157.5,9780786407408,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Screen Sirens Scream! - Interviews With 20 Actresses From Science Fiction, Horror, Film Noir And Mystery Movies, 1930S To 1960S",Paul Parla & Charles P. Mitchell,44.95,9780786407019,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Serials-Ly Speaking - Essays On Cliffhangers,William C. Cline,30.95,9780786409181,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Horror Movie Hosts - 68 Vampires, Mad Scientists And Other Denizens of The Late - Night Airwaves Examined And Interviewed",Elena M. Watson,26.96,9780786409402,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Sitcom Factbook - Over 8,700 Details From 130 Shows, 1985 - 2000",Vincent Terrace,35.95,9780786409006,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Western Villains - Bad At The Bijou,William R. Horner,28.8,9780786409389,MTV,2000
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: 247 Best Movie Scenes In Film History,Sanford Levine,28.8,9780786411115,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Allied Artists Checklist - Feature Films And Short Subjects of Allied Artists Pictures Corporation, 1947 - 1978",Len D. Martin,35.95,9780786411139,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: American Film Studios - An Historical Encyclopedia,Gene Fernett,35.95,9780786413256,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Arness, James - An Autobiography",James Arness,35.95,9780786412211,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beyond Ballyhoo - Motion Picture Promotion And Gimmicks,Mark Thomas McGee,30.95,9780786411146,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Coen Brothers - Films of Joel and Ethan Coen,Carolyn R. Russell,30.95,9780786409730,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Comedy Quotes From The Movies - Over 4,000 Bits of Humorous Dialogue From All Film Genres, Topically Arranged And Indexed",Larry Langman & Paul Gold,30.95,9780786411108,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Culture Meets Culture In The Movies - An Analysis East, West, North And South, With Filmographies",David H. Budd,39.95,9780786410958,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Down And Dirty - Hollywood's Exploitation Filmmakers And Their Movies,Mike Quarles,30.95,9780786411429,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Encyclopedia of Motion Picture Sound,Marty McGee,-85.5,9780786410231,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "End - Closing Lines of Over 3,000 Theatrically-Released American Films",R. Donna Chesher,30.95,9780786411078,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Espionage Filmography - United States Releases, 1898 Through 1999",Paul Mavis,44.95,9780786408610,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Famous Hollywood Locations - Descriptions And Photographs of 382 Sites Involving 289 Films And 105 Television Series,Leon Smith,30.95,9780786411160,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Feature Films, 1960 - 1969 - A Filmography of English - Language And Major Foreign - Language United States Releases",Harris M. Lentz III,112.5,9780786411009,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Filmed Television Drama, 1952 - 1958",William Hawes,44.95,9780786411320,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Films of The Nineties - A Complete, Qualitative Filmography of Over 3000 Feature - Length English Language Films, Theatrical And Video - Only, Released Between January 1, 1990, And December 31, 1999",Robert A. Nowlan & Gwendolyn Wright Nowlan,112.5,9780786409747,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Flights of Fancy - The Great Fantasy Films,Kenneth Von Gunden,30.95,9780786412143,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Global Television And The Shaping of World Politics: CNN, Telediplomacy, And Foreign Policy",Royce J. Ammon,30.95,9780786410620,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Gorehound's Guide To Splatter Films of The 1960S And 1970S,Scott Aaron Stine,30.95,9780786409242,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Griffith, D.W. - D.W. Griffith's Intolerance - Its Genesis And Its Vision",William M. Drew,30.95,9780786412099,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Gunmen And Gangsters - Profiles of Nine Actors Who Portrayed Memorable Screen Tough Guys,Michael Schlossheimer,35.95,9780786409891,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hark, Tsui - Cinema of Tsui Hark",Lisa Morton,44.95,9780786409907,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Heroes, Antiheroes And Dolts - Portrayals of Masculinity In American Popular Films, 1921 - 1999",Ashton D. Trice & Samuel A. Holland,35.95,9780786410972,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Hollywood Cauldron - Thirteen Horror Films From The Genre's Golden Age,Gregory William Mank,35.95,9780786411122,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: I Was A Monster Movie Maker - Conversations With 22 Sf And Horror Filmmakers,Tom Weaver,39.95,9780786410002,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Investigating Couples - A Critical Analysis of The Thin Man, The Avengers and The X-Files",Tom Soter,35.95,9780786411238,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Keaton, Diane - Artist And Icon",Deborah C. Mitchell,35.95,9780786410828,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Kings of The Jungle - Tarzan On Screen And Television,David Fury,30.95,9780786411092,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Laurel & Hardy - Boys: The Cinematic World of Laurel And Hardy,Scott Allen Nollen,30.95,9780786411153,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Live Television Drama, 1946 - 1951",William Hawes,44.95,9780786409051,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Motor City Marquees - A Comprehensive, Illustrated Reference To Motion Picture Theaters In The Detroit Area, 1906 - 1992",Stuart Galbraith IV,35.95,9780786411436,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: New Hollywood - What The Movies Did With The New Freedoms of The Seventies,James Bernardoni,30.95,9780786412068,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Performers' Television Credits, 1948-2000, Volume 1: A-F",David M. Inman,265.5,9780786410415,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Performers' Television Credits, 1948-2000, Volume 3: N-Z",David M. Inman,265.5,9780786410415,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Producers On Producing - The Making of Film And Television,Irv Broughton,30.95,9780786412075,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Screwball Comedy Films - A History And Filmography, 1934 - 1942",Duane Byrge & Robert Milton Miller,26.96,9780786411061,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Silent Film Necrology (2nd Edition),Eugene Michael Vazzana,85.5,9780786410590,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Silent Stars Speak - Interviews With Twelve Cinema Pioneers,Tony Villecco,35.95,9780786408146,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Suspense Thriller - Films In The Shadow of Alfred Hitchcock,Charles Derry,30.95,9780786412082,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Westerns And American Culture, 1930-1955",R. Philip Loy,-35.95,9780786410767,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Westerns And The Trail of Tradition - A Year - By - Year History, 1929-1962",Barrie Hanfling,44.95,9780786411252,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wheeler & Woolsey - The Vaudeville Comic Duo And Their Films, 1929-1937",Edward Watz,30.95,9780786411412,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Women of Warner Brothers - Lives And Careers of 15 Leading Ladies, With Filmographies For Each",Daniel Bubbeo,35.95,9780786411375,MTV,2001
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: African American Women And Sexuality In The Cinema,Norma Manatu,35.95,9780786414314,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Allen, Woody - Eighteen Woody Allen Films Analyzed: Anguish, God And Existentialism",Sander H. Lee,26.96,9780786413195,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Angeli, Pier - A Fragile Life",Jane Allen,35.95,9780786413928,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Art of The Short Fiction Film - A Shot By Shot Study of Nine Modern Classics,Richard Raskin,49.5,9780786411832,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Austen, Jane On Film And Television - A Critical Study of The Adaptations",Sue Parrill,30.95,9780786413492,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baggot, King - A Biography And Filmography of The First King of The Movies",Sally A. Dumaux,49.5,9780786413508,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball Filmography, 1915 Through 2001 (2nd Edition)",Hal Erickson,66.95,9780786412723,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Braff Silent Short Film Working Papers - Over 25,000 Films, 1903 - 1929, Alphabetized And Indexed",Richard E. Braff,175.5,9780786410316,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Brooks, Mel - Big Screen Comedies of Mel Brooks",Robert Alan Crick,44.95,9780786410330,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Cinema of Generation X - A Critical Study of Films And Directors,Peter Hanson,30.95,9780786413348,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Clift, Montgomery - Biography",Michelangelo Capua,30.95,9780786414321,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Comical Co - Stars of Television - From Ed Norton To Kramer,Robert Pegg,-39.95,9780786413416,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Conried, Hans - A Biography: With A Filmography And A Listing of Radio, Television, Stage And Voice Work",Suzanne Gargiulo,39.95,9780786413386,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Crime Fighting Heroes of Television - Over 10,000 Facts From 151 Shows, 1949 - 2001",Vincent Terrace,35.95,9780786413959,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "De Sica, Vittorio - Director, Actor, Screenwriter",Bert Cardullo,-66.95,9780786411351,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Devil On Screen - Feature Films Worldwide, 1913 Through 2000",Charles P. Mitchell,44.95,9780786410491,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Film And Television Locations - A State - By - State Guidebook To Moviemaking Sites, Excluding Los Angeles",Doug Gelbert,44.95,9780786412938,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Film Fatales - Women In Espionage Films And Television, 1962 - 1973",Tom Lisanti & Louis Paul,39.95,9780786411948,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Fisher, Terence - Horror, Myth And Religion",Paul Leggett,35.95,9780786411672,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Frankenstein Archive,Donald F. Glut,30.95,9780786413539,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Frankenstein Archive - Essays On The Monster, The Myth, The Movies, And More",Donald F. Glut,30.95,9780786413539,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Gable, Clark - Biography, Filmography, Bibliography",Chrystopher J. Spicer,39.95,9780786411245,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Going To Pieces - The Rise And Fall of The Slasher Film, 1978 - 1986",Adam Rockoff,35.95,9780786412273,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Growing Up On The Set - Interviews With 39 Former Child Actors of Classic Film And Television,Tom Goldrup & Jim Goldrup,30.95,9780786412549,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Hitler Filmography - Worldwide Feature Film And Television Miniseries Portrayals, 1940 Through 2000",Charles P. Mitchell,-34.95,9780786445851,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hooper, Tobe - Eaten Alive At A Chainsaw Massacre: The Films of Tobe Hooper",John Kenneth Muir,44.95,9780786412822,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Horror Film Stars, Third Edition",Michael R. Pitts,-39.95,9780786410521,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Independent Film Experience - Interviews With Directors And Producers,Kevin J. Lindenmuth,35.95,9780786410750,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Jarman, Derek - Films of Derek Jarman",William Pencak,35.95,9780786414307,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Kennedy, Arthur - Man of Characters - A Stage And Cinema Biography",Meredith C. Macksoud & Craig R. Smith & Jackie Lohrke,35.95,9780786413843,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Luxford, Albert J., The Gimmick Man - Memoir of A Special Effects Maestro",Albert J. Luxford & Gareth Owen,35.95,9780786411504,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Montana, Patsy - The Cowboy's Sweetheart",Patsy Montana & Jane Frost,30.95,9780786410804,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Nevada Filmography - Nearly 600 Works Made In The State, 1897 Through 2000",Gary DuVal,66.95,9780786412716,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "North Carolina Filmography - Over 2000 Film And Television Works Made In The State, 1905 Through 2000",Jenny Henderson,66.95,9780786412945,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Photoplay Editions - A Collector's Guide,Rick Miller,39.95,9780786413126,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Queer (Un)Friendly Film And Television,James R. Keller,35.95,9780786412464,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Science Fiction Confidential - Interviews With 23 Monster Stars And Filmmakers,Tom Weaver,39.95,9780786411757,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Sitcom Factfinder, 1948 - 1984 - Over 9,700 Details From 168 Television Shows",Vincent Terrace,35.95,9780786412433,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Stone, Fred - Circus Performer And Musical Comedy Star",Armond Fields,-39.95,9780786411610,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Stop - Motion Armature Machining - A Construction Manual,Tom Brierton,44.95,9780786412440,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Veidt, Conrad On Screen - A Comprehensive Illustrated Filmography",John T. Soister,34.95,9780786445110,MTV,2002
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Bergman's Muses - Aesthetic Versatility In Film, Theatre, Television And Radio",Egil Tornqvist,35.95,9780786416035,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Bronson, Charles - The 95 Films And The 156 Television Appearances",Michael R. Pitts,35.95,9780786417025,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Czech New Wave Filmmakers In Interviews,Robert Buchar,44.95,9780786417209,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Double Feature Creature Attack: A Monster Merger of Two More, Volumes of Classic Interviews",Tom Weaver,39.95,9780786413669,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Dreams on Film: The Cinematic Struggle Between Art and Science,Leslie Halpern,30.95,9780786415960,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Drive-in Dream Girls: A Galaxy of B-Movie Starlets of the Sixties,Tom Lisanti,39.95,9780786415755,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Early Film Noir - Greed, Lust And Murder Hollywood Style",William Hare,35.95,9780786416295,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Film Industry In Argentina - An Illustrated Cultural History,Jorge Finkielman,44.95,9781786416288,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Film Noir Guide: 745 Films of the Classic Era, 1940-1959",Michael F. Keaney,66.95,9780786415472,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Fuller, Sam - Film Is A Battleground: Critical Study, With Interviews Filmography And A Bibliography",Lee Server,30.95,9780786417001,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Gorehound's Guide To Splatter Films of The 1980S,Scott Aaron Stine,30.95,9780786415328,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hellman, Monte - His Life and Films",Brad Stevens,35.95,9780786414345,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: High on the Hogs: A Biker Filmography,David Stidworthy,35.95,9780786414185,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Hollywood Musicals Nominated For Best Picture,Frederick G. Vogel,66.95,9780786412907,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Huntley, Chet - Good Night, Chet: A Biography of Chet Huntley",Lyle Johnston,35.95,9780786415021,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Leigh, Vivien - A Biography",Michelangelo Capua,30.95,9780786414970,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Let The Credits Roll - Interviews With Film Crew,Barbara Baker,35.95,9780786416790,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lewton, Val - Fearing The Dark: The Val Lewton Career",Edmund G. Bansak,35.95,9780786417094,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lloyd, Harold - Harold Lloyd Encyclopedia",Annette D'Agostino Lloyd,66.95,9780786415144,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Mexican Filmography, 1916 Through 2001",David E. Wilt,175.5,9780786415373,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Monty Python, Shakespeare and English Renaissance Drama",Darl Larsen,-30.95,9780786415045,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Moviegoing Experience, 1968-2001",Richard W. Haines,35.95,9780786413614,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Movies Were Always Magical: Interviews with 19 Actors, Directors, and Producers from the Hollywood of the 1930s through the 1950s",Leo Verswijver,35.95,9780786411290,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Nabokov At The Movies - Film Perspectives In Fiction,Barbara Wyllie,39.95,9780786416387,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Piracy in the Motion Picture Industry,Kerry Segrave,35.95,9780786414734,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Poe Cinema,Don G. Smith,35.95,9780786417032,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Reel Baseball: Essays and Interviews on the National Pastime, Hollywood and American Culture",Stephen C. Wood,30.95,9780786413898,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Reel Portrayals - The Lives of 640 Historical Persons On Film, 1929 Through 2001",Michael G. Stevens,44.95,9780786414611,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Saint - A Complete History In Print, Radio, Film And Television of Leslie Charteris' Robin Hood of Modern Crime, Simon Templar, 1928 - 1992",Burl Barer,35.95,9780786416806,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Seeing Hardy: Film and Television Adaptations of the Fiction of Thomas Hardy,Paul J. Niemeyer,35.95,9780786414291,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Short-Lived Television Series, 1948 - 1978 - Thirty Years of More Than 1,000 Flops",Wesley Hyatt,44.95,9780786414208,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Slasher Films - An International Filmography, 1960 Through 2001",Kent Byron Armstrong,66.95,9780786414628,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Strong, Silent Type - Over 100 Screen Cowboys, 1903 - 1930",Buck Rainey,66.95,9780786412860,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Crime Fighters Factbook - Over 9,800 Details From 301 Programs, 1937 - 2003",Vincent Terrace,35.95,9780786415335,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Program Master Index: Access to Critical and Historical Information on 1,927 Shows in 925 Books, Dissertations, and Journal Articles, 2d ed.",Charles V. Dintrone,66.95,9780786414925,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Universal Sound Westerns, 1929 - 1946 - The Complete Filmography",Gene Blottner,66.95,9780786415113,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Vitaphone Films - A Catalogue of The Features And Shorts,Roy Liebman,-85.5,9780786412792,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: War Veteran in Film,Emmett Early,35.95,9780786414710,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Western Film Highlights - The Best of The West, 1914-2001",Henryk Hoffmann,35.95,9780786445011,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wong, Anna May - A Complete Guide to Her Film, Stage, Radio and Television Work",Philip Leibfried & Chei Mi Lane,49.5,9780786416332,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Zinnemann, Fred - Films of Character And Conscience",Neil Sinyard,35.95,9780786417117,MTV,2003
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Abbott & Costello - The Horror Spoofs of Abbott And Costello,Jeffrey S. Miller,30.95,9780786419227,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: American Martial Arts Film,M. Ray Lott,-44.95,9780786418367,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: American Plays And Musicals On Screen - 650 Stage Productions And Their Film And Television Adaptations,Thomas S. Hischak,66.95,9780786420032,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Architecture For The Screen - A Critical Study of Set Design In Hollywood's Golden Age,Juan Antonio Ramirez,49.5,9780786417810,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Batman Filmography - Live - Action Features, 1943 - 1997",Mark S. Reinhart,44.95,9780786420230,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Boxing Filmography - American Features, 1920 - 2003",Frederick V. Romano,35.95,9780786417933,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Chan, Charlie - At The Movies",Ken Hanke,30.95,9780786419210,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Craven, Wes - The Art of Horror",John Kenneth Muir,30.95,9780786419234,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Definitive Andy Griffith Show Reference - Episode - By - Episode, With Cast And Production Biographies And A Guide To Collectibles",Dale Robinson & David Fernandes,35.95,9780786420681,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Doyle, Sir Arthur Conan - At The Cinema - A Critical Study of The Film Adaptations",Scott Allen Nollen,30.95,9780786421244,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "First Hollywood Musicals - A Critical Filmography of 171 Features, 1927 Through 1932",Edwin M. Bradley,44.95,9780786420292,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Flynn, Errol - The Life And Career",Thomas McNulty,58.5,9780786417506,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Foreign Films In America - A History,Kerry Segrave,35.95,9780786417643,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Ghost Images - Cinema of The Afterlife,Tom Ruffles,35.95,9780786420056,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Harryhausen, Ray - Dinosaur Films of Ray Harryhausen",Roy P. Webber,44.95,9780786416660,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Hick Flicks - The Rise And Fall of Redneck Cinema,Scott Von Doviak,30.95,9780786419975,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hill, George Roy - Films of George Roy Hill, Revised Edition",Andrew Horton,49.5,9780786419319,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hitchcock, Alfred - Alfred Hitchcock's Silent Films",Marc Raymond Strauss,35.95,9780786419012,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hope, Bob - The Bob Hope Films",James L. Neibaur,35.95,9780786410507,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Horror And Mystery Photoplay Editions And Magazine Fictionizations - The Catalog of A Collection,Thomas Mann,35.95,9780786417223,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Independent Filmmaker's Guide To Writing A Business Plan For Investors,Gabriel Campisi,35.95,9780786416820,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: It Came From Horrorwood - Interviews With Moviemakers In The Sf And Horror Tradition,Tom Weaver,28.8,9780786420698,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Italian Horror Films of The 1960S,Lawrence McCallum,30.95,9780786419685,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lee, Christopher Filmography",Tom Johnson & Mark A. Miller,35.95,9780786446919,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lynch, David - Pervert In The Pulpit: Morality In The Works of David Lynch",Jeff Johnson,30.95,9780786417537,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Makeover In Movies - Before And After In Hollywood Films, 1941-2002",Elizabeth A. Ford & Deborah C. Mitchell,35.95,9780786417216,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Making of Rebel Without A Cause,Douglas L. Rathgeb,44.95,9780786419760,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Medieval Hero On Screen,Martha W. Driver,30.95,9780786419265,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Movie Moguls Speak - Interviews With Top Film Producers,Steven Prigge,35.95,9780786419296,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Movies And The Mind - Theories of The Great Psychoanalysts Applied To Film,William Indick,35.95,9780786419531,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Moving Pictures And Classic Images - Memories of Forty Years In The Vintage Film Hobby,Samuel K. Rubin,35.95,9780786417575,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Mr. Deeds Goes To Yankee Stadium - Baseball Films In The Capra Tradition,Wes D. Gehring,30.95,9780786417735,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "O'Brien, Margaret - A Career Chronicle And Biography",Allan R. Ellenberger,35.95,9780786421558,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Product Placement In Hollywood Films,Kerry Segrave,-35.95,9780786419043,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Psychotherapists On Film, 1899 - 1999 - A Worldwide Guide To Over 5000 Films, Volume 2 - M - Z, Appendices, Index",John Flowers & Paul Frizler,130.5,9780786412976,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Rooney, Mickey - His Films, Television Appearances, Radio Work, Stage Shows, And Recordings",Alvin H. Marill,35.95,9780786420155,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Science Fiction And Fantasy Film Flashbacks - Conversations With 24 Actors, Writers, Producers And Directors From The Golden Age",Tom Weaver,28.8,9780786420704,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Scorsese Psyche On Screen - Roots of Themes And Characters In The Films,Maria T. Miliora,35.95,9780786417636,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Six Day Horror Movie - A No - Nonsense Guide To No - Budget Filmmaking,Michael P. DiPaolo,35.95,9780786419050,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Smirk, Sneer And Scream",Mark Clark,44.95,9780786419326,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Space Patrol,Jean-Noel Bassior,44.95,9780786419111,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: This Is A Thriller,Alan Warren,30.95,9780786419692,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Verne, Jules On Film",Thomas C. Renzi,35.95,9780786419661,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Westerns Women - Interviews With 50 Leading Ladies of Movie And Television Westerns From The 1930S To The 1960S,Boyd Magers & Michael G. Fitzgerald,35.95,9780786420285,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wilder, Billy - American Film Realist",Richard Armstrong,30.95,9780786421190,MTV,2004
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "African American Films Through 1959 - A Comprehensive, Illustrated Filmography",Larry Richards,35.95,9780786422746,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "American Family On Television - A Chronology of 121 Shows, 1948 - 2004",Marla Brooks,30.95,9780786420742,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Analytical Guide To Television's Battlestar Galactica,John Kenneth Muir,26.96,9780786424559,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Arbuckle, Roscoe Fatty - A Biography of The Silent Film Comedian, 1887 - 1933",Stuart Oderman,30.95,9780786422777,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Billboard's Video Yearbook: 1994,Joel Whitburn,10,089820111X,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Biology of Science Fiction Cinema,Mark C. Glassy,35.95,9780786426041,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Blood In The Moonlight - Michael Mann And Information Age Cinema,Mark E. Wildermuth,30.95,9780786420599,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Bunuel, Luis - Bunuel",John Baxter,4.95,078670506X,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Carpenter, John - Films of John Carpenter",John Kenneth Muir,30.95,9780786422692,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Casting Might - Have - Beens - A Film By Film Directory of Actors Considered For Roles Given To Others,Eila Mell,39.95,9780786420179,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Chan, Charlie - Film Encyclopedia",Howard M. Berlin,35.95,9780786424528,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Chandler, Jeff - Film, Record, Radio, Television And Theater Performances",Jeff Wells,39.95,9780786420018,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Children of Hollywood: Accounts of Growing Up as the Sons and Daughters of Stars,Michelle Vogel,30.95,9780786420469,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Cushing, Peter - Autobiography and Past Forgetting",Peter Cushing,16.95,1187664262,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Day, Doris - Sentimental Journey",Garry McGee,49.5,9780786419814,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Dinosaur Filmography,Mark F. Berry,35.95,9780786424535,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Doctor Who Error Finder - Plot, Continuity And Production Mistakes In The Television Series And Films",R.H. Langley,44.95,9780786419906,MTV,205
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Drums O' Terror: Voodoo In The Cinema,Bryan Senn,19.95,1841950931,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Earth vs. the Sci-Fi Filmmakers - Twenty Interviews,Tom Weaver,39.95,9780786422104,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Exploring Space: 1999 - An Episode Guide and Complete History of the Mid-1970s Science Fiction Television Series,John Kenneth Muir,26.96,9780786422760,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Fountainheads - Wright, Rand, The FBI And Hollywood",Donald Leslie Johnson,66.95,9780786419586,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Gone with the Wind,Herb Bridges,5.95,067168387X,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Greek Filmography, 1914 Through 1996",Dimitris Koliodimos,85.5,9780786424214,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Haunted Screen - Ghosts In Literature And Film,Lee Kovacs,30.95,9780786426058,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hollywood Surf And Beach Movies - The First Wave, 1959 - 1969",Thomas Lisanti,39.95,9780786421046,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Image of Librarians In Cinema, 1917 - 1999",Ray Tevis & Brenda Tevis,44.95,9780786421503,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "In A Door, Into A Fight, Out A Door, Into A Chase - Moviemaking Remembered By The Guy At The Door",William Witney,30.95,9780786422586,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Kubrick, Stanley - Seven Films Analyzed",Randy Rasmussen,-35.95,9780786421527,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lancaster, Burt - A Filmography And Biography",Ed Andreychuk,35.95,9780786423392,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Last of The Cowboy Heroes - The Westerns of Randolph Scott, Joel Mccrea, And Audie Murphy",Robert Nott,35.95,9780786422616,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Latin American Films, 1932 - 1994 - A Critical Filmography",Ronald Schwartz,44.95,9780786422265,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lovecraft, H.P. in Popular Culture",Don G. Smith,30.95,9780786420919,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "McCambridge, Mercedes - A Biography And Career Record",Ron Lackmann,39.95,9780786419791,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "McGowan, J.P. - Biography of A Hollywood Pioneer",John J. McGowan,35.95,9780786419944,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Of Gods And Monsters: A Critical Guide To Universal Studios' Science Fiction, Horror And Mystery Films, 1929-1939",John T. Soister,44.95,9780786421534,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Poverty Row Studios, 1929 - 1940 - An Illustrated History of 55 Independent Film Companies, With A Filmography For Each",Michael R. Pitts,39.95,9780786423194,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Reference Guide To Television's Bonanza - Episodes, Personnel And Broadcast History",Bruce R. Leiby & Linda F. Leiby,30.95,9780786422685,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "RKO Features - A Complete Filmography of the Feature Films Released RKO Radio Pictures, 1929 - 1960",James L. Neibaur,35.95,9780786421664,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Roeper, Richard - 10 Sure Signs A Movie Character Is Doomed",Richard Roeper,3.95,078688830X,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Serial Film Stars - A Biographical Dictionary, 1912-1956",Buck Rainey,85.5,9780786420100,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Shooting Scripts - From Pulp Western To Film,Bob Herzberg,30.95,9780786421732,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Silent Films, 1877 - 1996 - A Critical Guide To 646 Movies",Robert K. Klepper,44.95,9780786421640,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Spaghetti Westerns - The Good, The Bad And The Violent - A Comprehensive, Illustrated Filmography of 558 Eurowesterns And Their Personnel, 1961 - 1977",Thomas Weisser,35.95,9780786424429,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Strange Case of Dr. Mabuse,David Kalat,30.95,9780786423378,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Strickfaden, Kenneth - Dr. Frankenstein's Electrician",Harry Goldman,30.95,9780786420643,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Tierney, Gene - A Biography",Michelle Vogel,49.5,9780786420353,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Titanic In Print And On Screen - An Annotated Guide To Books, Films, Television Shows And Other Media",D. Brian Anderson,35.95,9780786417865,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Truth And Lives On Film - The Legal Problems of Depicting Real Persons And Events In A Fictional Medium,John T. Aquino,35.95,9780786420445,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Valentino Mystique - Death And Afterlife of The Silent Film Idol,Allan R. Ellenberger,35.95,9780786419500,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Van Cleef, Lee - A Biographical, Film And Television Reference",Mike Malloy,30.95,9780786422722,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Vixens, Floozies And Molls - 28 Actresses of Late 1920S And 1930S Hollywood",Hans J. Wollstein,35.95,9780786422609,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Women Scientists In 50s Science Fiction Films,Bonnie Noonan,35.95,9780786421305,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Zorro Television Companion,Gerry Dooley,39.95,9780786420582,MTV,2005
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Analytical Guide To Television's One Step Beyond, 1959 - 1961",John Kenneth Muir,26.96,9780786428496,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Beatty, Warren - Sexiest Man Alive: A Biography of Warren Beatty",Ellis Amburn,5.95,006018566X,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Bergman, Ingmar - His Life And Films",Jerry Vermilye,35.95,9780786429592,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Brando, Marlon - The Way It's Never Been Done Before: My Friendship With Marlon Brando",George Englund,4.95,1160786302,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Brown, Joe E. - Film Comedian and Baseball Buffoon",Wes D. Gerhing,34.95,078642589X,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Censored Screams - The British Ban On Hollywood Horror In The Thirties,Tom Johnson,30.95,9780786427314,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Chaplin, Charlie - Comic Genius",David Robinson,4.95,0810928842,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Children of The Night - The Six Archetypal Characters of Classic Horror Films,Randy Rasmussen,30.95,9780786427253,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Christmas Carol And Its Adaptations - A Critical Examination of Dickens's Story And Its Productions On Screen And Television,Fred Guida,26.96,9780786428403,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Count Dracula Goes To The Movies - Stoker's Novel Adapted, 1922 - 1995",Lyndon W. Joslin,44.95,9780786426010,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Cuban Filmography - 1897 Through 2001,Alfonso J. Garcia Osuna,-49.5,9780786427277,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dressler, Marie - A Biography, with a Listing of Major Stage Performances, a Filmography and a Discography",Matthew Kennedy,35.95,9780786428441,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Drive-In Theaters - A History From Their Inception In 1933,Kerry Segrave,30.95,9780786426300,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Film Noir - A Comprehensive, Illustrated Reference To Movies, Terms And Persons",Michael L. Stephens,44.95,9780786426287,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Films of The Eighties - A Complete, Qualitative Filmography To Over 3400 Feature-Length English Language Films, Theatrical And Video - Only, Released Between January 1, 1980, And December 31, 1989 (2-Volume Set)",Robert A. Nowlan & Gwendolyn Wright Nowlan,85.5,9780786427376,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Following The Fugitive - An Episode Guide And Handbook To The 1960S Television Series,Bill Deane,30.95,9780786426317,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Ford, John Westerns - A Thematic Analysis, With A Filmography",William Darby,35.95,9780786429547,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Garfield, John - The Illustrated Career In Films And On Stage",Patrick J. McGrath,-35.95,9780786428489,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Golden Horrors - An Illustrated Critical Filmography of Terror Cinema, 1931 - 1939",Bryan Senn,35.95,9780786427246,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "History And Critical Analysis of Blake's 7, The 1978 to 1981 British Television Space Adventure",John Kenneth Muir,26.96,9780786426607,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Hitchcock, Alfred - It's Only a Movie: Personal Biography",Charlotte Chandler,12.95,1557836922,MTV,2406
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hollywood War Films, 1937-1945: An Exhaustive Filmography of American Feature - Length Motion Pictures Relating To World War II",Michael S. Shull & David Edward Wilt,66.95,9780786428540,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Ladies of The Western - Interviews With Fifty - One More Actresses From The Silent Era To The Television Westerns of The 1950S And 1960S,Michael G. Fitzgerald & Boyd Magers,35.95,9780786426560,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lewis, Herschell Gordon - Godfather of Gore - The Films",Randy Palmer,35.95,9780786428502,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lugosi, Bela - His Life In Films, On Stage, And In The Hearts of Horror Lovers",Gary Don Rhodes,30.95,9780786427659,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Martin, Dean - Memories Are Made of This: Dean Martin Through His Daughter's Eyes",Deana Martin,5.95,140005043X,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Marvin, Lee - His Films And Career",Robert J. Lentz,35.95,9780786426065,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Meat is Murder! An Illustrated Guide to Cannibal Culture,Mikita Brottman,-6.95,1840680407,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Motion Picture Exhibition In Washington, D.C. - An Illustrated History of Parlors, Palaces And Multiplexes In The Metropolitan Area, 1894 - 1997",Robert K. Headley,44.95,9780786428427,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Peckinpah, Sam - Films of Sam Peckinpah",Neil Fulwood,16.95,071348733X,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Planet of The Apes As American Myth - Race And Politics In The Films And Television Series,Eric Greene,26.96,9780786426638,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Reel Middle Ages - American, Western And Eastern European, Middle Eastern And Asian Films About Medieval Europe",Kevin J. Harty,44.95,9780786426577,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Republic Pictures Checklist,Len D. Martin,34.95,078642740X,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Rodeo and Hollywood - Rodeo Cowboys on Screen and Western Actors in the Arena,Jim Ryan,49.5,9780786424702,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Science Fiction Television Series - Episode Guides, Histories, And Casts And Credits For 62 Prime-Time Shows, 1959 Through 1989 (Volumes 1 & 2)",Mark Phillips & Frank Garcia,44.95,9780786428359,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid price
+Record: Twelve O'Clock High Logbook,Allan T. Duffin & Paul Matheis,-24.95,159393033X,MTV,2206
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Uneasy Dreams - The Golden Age of British Horror Films, 1956 - 1976",Gary A. Smith,35.95,9780786426614,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: White Zombie - Anatomy of A Horror Film,Gary D. Rhodes,35.95,9780786427628,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Women of The Western Frontier In Fact, Fiction And Film",Ron Lackmann,35.95,9780786428458,MTV,2006
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Alley, Kirstie - How To Lose Your Ass And Regain Your Life: Reluctant Confessions of a Big-Butted Star",Kirstie Alley,5.95,159486232X,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Amazing Transforming Superhero,Terrence Wandtke,30.95,9780786431892,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: American Science Fiction Television Series of The 1950S - Episode Guides And Casts And Credits For Twenty Shows,Patrick Lucanio & Gary Coville,35.95,9780786431014,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Autry, Gene - His Life And Career",Don Cusic,44.95,9780786430611,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Balboa Films - A History And Filmography of The Silent Film Studio,Jean-Jacques Jura & Rodney Norman Bardin II,35.95,9780786430987,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baxter, Dick - Standing Tall In The Shadows: Memoirs of A Hollywood Manager",Dick Baxter,16.95,9781593931056,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Booking Hawaii Five-O: An Episode Guide And Critical History of The 1968-1980 Television Detective Series,Karen Rhodes,30.95,9780786431083,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Buchanan, Larry - Films Of",Rob Craig,35.95,9780786429820,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Chicago TV Horror Movie Shows - From Shock Theatre To Svengoolie,Ted Okuda & Mark Yurkiw,14.95,9781893121133,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Columbia Checklist 1922-1988 (2-Volume Set),Len D. Martin,44.95,9780786431038,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Critical History And Filmography of Toho's Godzilla Series,David Kalat,30.95,9780786430994,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Critical History of Doctor Who On Television,John Kenneth Muir,26.96,9780786437160,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Elliott, Wild Bill - A Complete Filmography",Gene Blottner,49.5,9780786429868,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Eye On Science Fiction - 20 Interviews With Classic Sf And Horror Filmmakers,Tom Weaver,35.95,9780786430284,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Film Clowns of The Depression,Wes D. Gehring,39.95,9780786428922,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Florence Lawrence, The Biograph Girl - America's First Movie Star",Kelly R. Brown,30.95,9780786430895,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Frankenheimer, John - Pictures About Extremes: The Films of John Frankenheimer",Stephen B. Armstrong,31.95,9780786431458,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Glamour Girls of The Sixties,Tom Lisanti,39.95,9780786431724,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Glut, Don - I Was A Teenage Movie Maker: The Book",Don Glut,26.96,9780786430413,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Krofft, Sid And Marty - A Critical Study of Saturday Morning Children's Television, 1969 - 1993",Hal Erickson,30.95,9780786430932,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Kubrick, Stanley - And The Art of Adaptation - Three Novels, Three Films",Greg Jenkins,30.95,9780786430970,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lee, Anna - Memoir of A Career On General Hospital In Film",Anna Lee & Barbara Roisman Cooper,30.95,9780786431618,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Mexican Cinema of Darkness,Doyle Greene,30.95,9780786429998,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Missing Reels - Lost Films of American And European Cinema,Harry Waldman,44.95,9780786437771,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Moreland, Mantan - Mantan the Funnyman: The Life and Times of Mantan Moreland",Michael H. Price,29.95,188766470X,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Mummy In Fact, Fiction And Film",Susan D. Cowie & Tom Johnson,35.95,9780786431144,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Mummy Unwrapped - Scenes Left On Universal's Cutting Room Floor,Thomas M. Feramisco,35.95,9780786437344,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Peckinpah, Sam - Portrait In Montage",Garner Simmons,13.95,087910273X,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Scott, Randolph - Films of Randolph Scott",Robert Nott,35.95,9780786437597,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Sennett, Mack - Keystone: The Life And Clowns of Mack Sennett",Simon Louvish,7.95,057121276X,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Serial Killer Cinema - An Analytical Filmography With An Introduction,Robert Cettl,44.95,9780786437313,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Stoogeology - Essays On The Three Stooges,Peter Seely & Gail W. Pieper,30.95,9780786429202,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Stop - Motion Filmography - A Critical Guide To 297 Features Using Puppet Animation,Neil Pettigrew,66.95,9780786431076,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Superman On Film, Television, Radio And Broadway",Christopher Wayne Curry & Bruce Scivally,44.95,9780786431663,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Tales From The Cult Film Trenches,Louis Paul,30.95,9780786429943,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Television Fright Films of The 1970s,David Deal,44.95,9780786429295,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Specials - 3,201 Entertainment Spectaculars, 1939 Through 1993",Vincent Terrace,44.95,9780786437733,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Western Players of The Fifties - A Biographical Encyclopedia of All Regular Cast Members In Western Series, 1949 - 1959",Everett Aaker,44.95,9780786430871,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "The Incredible World of Spy-Fi - Wild And Crazy Spy Gadgets, Props And Artifacts From TV And The Movies",Danny Biederman,7.95,081184224X,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Twilight Zone - Unlocking The Door To A Television Classic,Martin Grams Jr.,24.95,9780970331090,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Universal - International Westerns, 1947 - 1963 - The Complete Filmography",Gene Blottner,35.95,9780786430888,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Universal Horrors - The Studio's Classic Films, 1931-1946 (2nd Edition)",Michael Brunas & John Brunas & Tom Weaver,49.5,9780786429745,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Welles, Orson - Stories of His Life",Peter Conrad,5.95,057121164X,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Women Who Made Television Funny,David C. Tucker,35.95,9780786429004,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Year of Fear, A - A Day-By-Day Guide To 366 Horror Films",Bryan Senn,30.95,9780786431960,MTV,2007
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: 30 Years of British Television: Meet the People Behind Your Favorite British TV Characters!,Bret Norton & A.S Berman,16.95,9781593931438,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: A Western Filmmakers (Volumes 1 & 2),Henryk Hoffman,66.95,9780786437429,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Allen, Irwin - Irwin Allen Television Productions, 1964-1970",Jon Abbott,54.95,9780786427598,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "American Frontiersmen On Film And Television - Boone, Crockett, Bowie, Houston, Bridger And Carson",Ed Andreychuk,44.95,9780786438648,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "American Silent Film Comedies - An Illustrated Encyclopedia of Persons, Studios And Terminology",Blair Miller,30.95,9780786438839,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Art Directors In Cinema - A Worldwide Biographical Dictionary,Michael L. Stephens,39.95,9780786437719,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Avengers - On Location,Chris Bentley,19.95,190528747X,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Bad Boys - The Actors of Film Noir,Karen Burroughs Hannsberry,66.95,9780786437399,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Bergman, Ingrid - Ingrid: A Personal Biography",Charlotte Chandler,14.95,9781557837356,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Bernhardt, Sarah - In The Theatre of Films And Sound Recordings",David W. Menefee,30.95,9780786438822,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Blaisdell, Paul - Monster Maker",Randy Palmer,30.95,9780786440993,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Browning, Tod - The Cinema of Tod Browning: Essays of the Macabre and Grotesque",Bernd Herzogenrath,29.95,9780786434473,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Carradine, John - The Films",Tom Weaver,35.95,9780786437788,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Chaplin In The Sound Era - An Analysis of The Seven Talkies,Eric L. Flom,35.95,9780786440528,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Cheap Scares - Low Budget Horror Filmmakers Share Their Secrets,Gregory Lamberson,34.95,9780786437061,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cheap Tricks And Class Acts - Special Effects, Makeup And Stunts From The Fantastic Fifties",John J.J. Johnson,30.95,9780786440580,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Chinese Filmography - 2444 Feature Films Produced By Studios In The People's Republic of China From 1949 Through 1995,Donald J. Marion,85.5,9780786440719,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Coen, Joel & Ethan",Peter Korte & Georg Seesslen,18.95,9780879109639,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Crabbe, Buster: A Biofilmography",Jerry Vermilye,42.95,9780786436057,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Creature Feature: Nature Turned Nasty in the Movies,William Schoell,42.95,9780786435562,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Critical History of Television's The Twilight Zone, 1959 - 1964",Don Presnell & Marty McGee,26.96,9780786438860,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dali, Salvador - Dali, Surrealism and Cinema",Elliott H. King,13.95,9781904048909,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dictionary of Cinema Quotations From Filmmakers And Critics - Over 3400 Axioms, Criticisms, Opinions And Witticisms From 100 Years of The Cinema",Stephen M. Ringler,35.95,9780786437634,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Dictionary of Television And Audiovisual Terminology,Moshe Moshkovitz,30.95,9780786437542,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Doctor Who - Dalek I Loved You: A Memoir,Nick Griffiths,12.95,9780575082199,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Encyclopedia of Superheroes On Film And Television,John Kenneth Muir,66.95,9780786437559,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Epic Films - Casts, Credits And Commentary On Over 350 Historical Spectacle Movies, 2D Ed.",Gary Allen Smith,35.95,9780786440818,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Experimental Television, Test Films, Pilots And Trial Series, 1925 Through 1995 - Seven Decades of Small Screen Almosts",Vincent Terrace,66.95,9780786440962,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Fantastic Cinema Subject Guide - A Topical Index To 2,500 Horror, Science Fiction, And Fantasy Films",Bryan Senn & John Johnson,44.95,9780786437665,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Feature Films, 1940 - 1949 - A United States Filmography",Alan G. Fetrow,66.95,9780786440511,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Feature Films, 1950 - 1959 - A United States Filmography",Alan G. Fetrow,66.95,9780786440504,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Femme Noir - Bad Girls of Film,Karen Burroughs Hannsberry,66.95,9780786437399,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Film And Television In - Jokes - Nearly 2,000 Intentional References, Parodies, Allusions, Personal Touches, Cameos, Spoofs And Homages",Bill van Heerden,30.95,9780786438945,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Flash Gordon Serials, The - 1936-1940: A Heavily Illustrated Guide",Roy Kinnard & Tony Crnkovich & R.J. Vitone,44.95,9780786434701,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Ford, Harrison - The Films",Brad Duke,35.95,9780786440481,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Francis, Kay - I Can't Wait To Be Forgotten [2nd Edition]",Scott O'Brien,5.95,9781593931063,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "From Beautiful Downtown Burbank - A Critical History of Rowan And Martin's Laugh - In, 1968 - 1973",Hal Erickson,30.95,9780786440498,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: From Silents To Sound - A Biographical Encyclopedia of Performers Who Made The Transition To Talking Pictures,Roy Liebman,35.95,9780786440627,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Gangster Films - A Comprehensive, Illustrated Reference To People, Films And Terms",Michael L. Stephens,30.95,9780786437702,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Gish, Lillian - A Life On Stage And Screen",Stuart Oderman,35.95,9780786440757,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Googies: Coffeeshop to the Stars, Vol. 2 - The Golden Years",Steve Hayes,16.95,159393307X,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "History of Television, 1880 To 1941",Albert Abramson,44.95,9780786440863,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Holmes, John: A Life Measured in Inches",Jennifer Sugar & Jill C. Nelson,24.95,9781593933029,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hood, Robin - A Cinematic History of The English Outlaw And His Scottish Counterparts",Scott Allen Nollen,30.95,9780786437573,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Horror At The Drive - In - Essays In Popular Americana,Gary D. Rhodes,35.95,9780786437627,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: I Talked With A Zombie - Interviews With 23 Veterans of Horror And Sci-Fi Films And Television,Tom Weaver,39.95,9780786441181,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Karloff, Boris - A Critical Account of His Screen, Stage, Radio, Television And Recording Work",Scott Allen Nollen,30.95,9780786440733,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Kipling, Rudyard And Sir Henry Rider Haggard On Screen, Stage, Radio And Television",Philip Leibfried,35.95,9780786437467,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Korean War Filmography - 91 English Language Features Through 2000,Robert J. Lentz,39.95,9780786438761,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: L.A. Noir - Nine Dark Visions of The City of Angels,William Hare,35.95,9780786437405,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Langdon, Harry: His Life and Film [Second Edition]",William Schelly,39.95,9780786436910,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Laurie, Hugh - The House That Hugh Laurie Built: An Unauthorized Biography and Episode Guide",Paul Challen,14.95,9781550228038,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lemmon, Jack - A Twist of Lemmon: A Tribute to My Father",Chris Lemmon,14.95,9781557837394,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lynch, David",Colin Odell & Michelle Le Blanc,13.95,9781842432259,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Media In The Movies - A Catalog of American Journalism Films, 1900 - 1996",Larry Langman,39.95,9780786440917,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Mexican Masked Wrestler And Monster Filmography,Robert Michael Bobb Cotter,35.95,9780786441044,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Mickey Rooney as Archie Bunker and Other TV Casting Almosts,Ted Sennett & Eila Mell,24.95,159393145X,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Movie and Television Locations - 113 Famous Sites in Los Angeles and San Diego,Leon Smith,30.95,9780786440825,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Movies At Home - How Hollywood Came To Television,Kerry Segrave,30.95,9780786440801,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Naked City - The Television Series,James Rosin,14.95,9780972868433,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Nazi Propaganda Films - A History And Filmography,Rolf Giesen,35.95,9780786438709,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Plagues, Apocalypses And Bug-Eyed Monsters - How Speculative Fiction Shows Us Our Nightmares",Heather Urbanski,29.95,9780786429165,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Pollack, Syndey - A Critical Filmography",Janet L. Meyer,30.95,9780786437528,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Quinn, Martin, Producer - A Behind-the-Scenes History of QM Productions and Its Founder",Jonathan Etter,30.95,9780786438679,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Riding The Video Range - The Rise And Fall of The Western On Television,Gary A. Yoggy,44.95,9780786438969,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Rigg, Diana - Biography",Kathleen Tracy,12.95,193210027X,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Robinson, Edward G - The Edward G. Robinson Encyclopedia",Robert Beck,44.95,9780786438648,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Samurai Films,Roland Thorne,14.95,9781842432556,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Scheider, Roy - A Film Biography",Diane C. Kachmar,35.95,9780786440597,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Science Fiction Films,John Costello,7.98,9781903047446,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Science Fiction Serials,Roy Kinnard,30.95,9780786437450,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Scott, George C. - Rage And Glory: The Volatile Life And Career of George C. Scott",David Sheward,24.95,9781557836700,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Television Cartoon Shows - An Illustrated Encyclopedia, 1949-2003 (2 Volumes, 2nd Edition)",Hal Erickson,104.95,9780786420995,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Terror Television - American Series, 1970 - 1999",John Kenneth Muir,44.95,9780786438846,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Tourneur, Maurice - The Life And Films",Harry Waldman,30.95,9780786440856,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Wagon Train: The Television Series [Author-Signed Edition],James Rosin,19.95,9780972868440,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wampas Baby Stars - A Biographical Dictionary, 1922 - 1934",Roy Liebman,35.95,9780786440610,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Western Filmmakers - A Biographical Dictionary of Writers, Directors, Cinematographers, Composers, Actors And Actresses",Henryk Hoffmann,66.95,9780786437429,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Wild Beyond Belief!: Interviews with Exploitation Filmmakers of the 1960s and 1970s,Brian Albright,33.95,9780786436897,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Women Pioneers In Television - Biographies of Fifteen Industry Leaders,Cary O'Dell,35.95,9780786440740,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wray, Fay - The Films of Fay Wray",Roy Kinnard & Tony Crnkovich,30.95,9780786438754,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Young, Alan - Mister Ed and Me and More! [Author-Signed Edition]",Alan Young,17.95,9780979740404,MTV,2008
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Adventures In Paradise - The Television Series,James Rosin,14.95,9780972868457,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Adventures of Baron Munchhausen,Charles McKeown & Terry Gilliam,6.95,155783041X,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Best, James - Best In Hollywood: The Good, The Bad, And The Beautiful",James Best & Jim Clark,19.95,9781593934606,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Biographical Dictionary of Silent Film Western Actors and Actresses,George A. Katchmer & Diana Serra Cary (Foreword),39.95,9780786446933,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Brent, Evelyn - The Life And FIlms of Hollywood's Lady Crook",Lynn Kear & James King,39.95,9780786443635,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Comedy-Horror Films: A Chronological History, 1914-2008",Bruce G. Hallenback,34.95,9780786433322,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Coming Soon - Film Trailers And The Selling of Hollywood Technology,Keith M. Johnston,34.95,9780786444328,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Crawford, Joan - Not The Girl Next Door: A Personal Biography",Charlotte Chandler,14.95,9781557837516,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cushing, Peter - Peter Cushing: The Gentle Man Of Horror And His 91 Films",Deborah Del Vecchio & Tom Johnson & Barry Morse,35.95,9780786444953,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Encyclopedia of Television Law Shows - Factional and Fictional Shows About Judges, Lawyers and the Courtroom, 1948-2008",Hal Erickson,39.95,9780786438280,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Fear Itself - Horror On Screen And In Reality During The Depression And World War II,Melvin E. Matthews Jr.,29.95,9780786443130,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Food in the Movies [2nd Edition],Steve Zimmerman,39.95,9780786445462,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Hardcastle and McCormick: A Complete Viewer's Guide to the Classic 80s Action Series,Deb Ohlin & Cheri deFonteny & Lynn Walker,27.95,159393324X,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Holden, William - A Biography",Michelangelo Capua,30.95,9780786444403,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Hollywood's Made-To-Order Punks - The Complete Film History of The Dead End Kids, Little Tough Guys, East Side Kids and Bowery Boys",Richard Roat,19.95,159393467X,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Karloff, Boris - Dear Boris: The Life of William Henry Pratt a.k.a. Boris Karloff",Cynthia Lindsay,16.95,9780879101060,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Laemmle, Carla - Growing Up With Monsters: My Time At Universal Studios In Rhymes",Carla Laemmle,11.95,9781593933418,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lee, Bruce - Pocket Essentials",Simon B. Kenny,8.95,9781842432877,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Leonard, Sheldon - And The Show Goes On",Sheldon Leonard & Andy Griffith (Foreword),19.95,9780879101848,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lugosi, Bela And Boris Karloff - The Expanded Story of A Haunting Collaboration",Gregory William Mank,64.95,9780786434800,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Mr. Skin's Skintastic Video Guide: The 501 Greatest Movies For Sex & Nudity On DVD,Mr. Skin,16.95,9780979369100,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Murphy, Audie - The Films of Audie Murphy",Bob Larkins & Boyd Magers,35.95,9780786445080,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Olson, Johnny - A Voice In Time: From the Birth of Modern Media to The Price Is Right",Randy West,19.95,9781593934712,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Phantom Variations - The Adaptations of Gaston Leroux's Phantom of The Opera,1925 To Present",Ann C. Hall,30.95,9780786442652,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Pimps, Wimps, Studs, Thugs And Gentlemen - Essays On Media Images of Masculinity",Karen Schoemer,39.95,9780786443055,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Quincy - Television Series,James Rosin,16.95,9781593934545,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Rogers, Roy",Robert W. Phillips,35.95,9780786445899,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Silent Mystery And Detective Movies - A Comprehensive Filmography,Ken Wlaschin,49.95,9780786443505,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Stanley, John - I Was A TV Horror Host [Author-Signed Edition]",John Stanley,16.95,9780940064119,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Star Trek - Gender and Sexuality in Star Trek,David Greven,29.95,9780786444137,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Television Game Show Hosts,David Baber,29.95,9780786445738,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Terrorism in American Cinema - An Analytical Filmography, 1960-2008",Robert Cettl,42.95,9780786441556,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Westerners, The - Interviews with Actors, Directors, Writers and Producers",C. Courtney Joyner & Miles Swarthout (Foreword),34.95,9780786443031,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Whale's Dracula's Daughter: An Alternate History For Classic Film Monsters,Philip J. Riley,19.95,0593934750,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Wood, Ed - Ed Wood, Mad Genius: A Critical Study of The Films",Rob Craig,35.95,9780786439553,MTV,2009
+
+Semantic error in file: Movies_TV_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Zimbalist, Efrem, Jr. - My Dinner of Herbs",Efrem Zimbalist Jr.,19.95,9780879109882,MTV,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Zimbalist, Efrem - A Life",Roy Malan,19.95,1574670913,MRB,1905
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid year
+Record: "Mingus, Charles - Mingus / Mingus: Two Memoirs",Janet Coleman & Al Young,7.95,0879101490,MRB,1994
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Blues Singers - Biographies of 50 Legendary Artists of The Early 20th Century,David Dicaire,35.95,9780786406067,MRB,1999
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beginning of Broadcast Regulation In The Twentieth Century,Marvin R. Bensman,35.95,9780786407378,MRB,2000
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Classical Guitarists - Conversations,Jim Tosone,35.95,9780786408139,MRB,2000
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Traditional Musicians of The Central Blue Ridge - Old Time, Early Country, Folk And Bluegrass Label Recording Artists, With Discographies",Marty McGee,33.75,9780786408764,MRB,2000
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Early Days of Radio Broadcasting,George H. Douglas,35.95,9780786411993,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Ellington, Duke - Music For The Theatre",John Franceschina,35.95,9780786408566,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Fitzgerald, Ella - Annotated Discography: Including A Complete Discography of Chick Webb",J. Wilfred Johnson,66.95,9780786409068,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Jethro Tull - A History of The Band, 1968 - 2001",Scott Allen Nollen,35.95,9780786411016,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Madonna - Goddess: Inside Madonna,Barbara Victor,4.95,006019930X,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: More Blues Singers - Biographies of 50 Artists From The Later 20th Century,David Dicaire,35.95,9780786410354,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Presidential Sheet Music - Illustrated Catalogue of Published Music Associated with the American Presidency and Those Who Sought the Office [2 Volumes],Danny O. Crew,69.95,9780786443253,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Radio Comedy Diary - A Researcher's Guide To The Actual Jokes And Quotes of The Top Comedy Programs of 1947 - 1950,Gary Poole,35.95,9780786409686,MRB,2001
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Architectural Acoustics,Christopher N. Brooks,35.95,9780786413980,MRB,2002
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Broadway Musicals - A Hundred Year History,David H. Lewis,44.95,9780786412693,MRB,2002
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Radio Crime Fighters - Over 300 Programs From The Golden Age,Jim Cox,49.5,9780786413904,MRB,2002
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Say Goodnight, Gracie - The Last Years of Network Radio",Jim Cox,35.95,9780786411689,MRB,2002
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Suffragist Sheet Music - An Illustrated Catalogue of Published Music Associated With The Women's Rights And Suffrage Movement In America, 1795 - 1921, With Complete Lyrics",Danny O. Crew,66.95,9780786412983,MRB,2002
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: African American Concert Singers Before 1950,Darryl Glenn Nettles,44.95,9780786414673,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cavalieri, Lina - The Life of Opera's Greatest Beauty, 1874 - 1944",Paul Fryer & Olga Usova,44.95,9780786416851,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Coon - Sanders Nighthawks - The Band That Made Radio Famous,Fred W. Edmiston,58.5,9780786413409,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Death Metal Music - The Passion And Politics of A Subculture,Natalie J. Purcell,35.95,9780786415854,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Encyclopedia of Women In Radio, 1920 - 1960",Leora M. Sies & Luther F. Sies,130.5,9780786414765,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Herrold, Charles - Inventor of Radio Broadcasting",Gordon Greb & Mike Adams,39.95,9780786416905,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Hummert's Radio Factory - The Programs And Personalities of Broadcasting's Most Prolific Producers,Jim Cox,35.95,9780786416318,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Jazz Musicians of The Early Years, To 1945",David Dicaire,35.95,9780786415830,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Music of Emily Dickinson's Poems and Letters: A Study of Imagery and Form,Carolyn Lindley Cooley,35.95,9780786414918,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "North, Alex - Alex North, Film Composer: A Biography, with Musical Analyses of A Streetcar Named Desire, Spartacus, The Misfits, Under the Volcano, and Prizzi?s Honor",Sanya Shoilevska Henderson,39.95,9780786443338,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Opera for Libraries: A Guide to Core Works, Audio and Video Recordings, Books and Serials",Clyde T. McCants,44.95,9780786414420,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Radio Program Openings And Closings, 1931 - 1972",Vincent Terrace,66.95,9780786414857,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Who - A Who's Who,Richard Bogovich & Cheryl Posner,30.95,9780786415694,MRB,2003
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: American Opera Singers And Their Recordings,Clyde T. McCants,66.95,9780786419524,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Blueswomen - Profiles of 37 Early Performers, With An Anthology of Lyrics, 1920 - 1945",Anna Stong Bourgeois,30.95,9780786421220,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Confederate Sheet Music,E. Lawrence Abel,85.5,9780786415076,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Getz, Stan - An Annotated Bibliography And Filmography, With Song And Session Information For Albums",Nicholas Churchill,66.95,9780786419494,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Great Composers Portrayed On Film, 1913 Through 2002",Charles P. Mitchell,66.95,9780786417957,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Manipulating The Ether - The Power of Broadcast Radio In Thirties America,Robert J. Brown,39.95,9780786420667,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Marching Band Handbook - Competitions, Instruments, Clinics, Fundraising, Publicity, Uniforms, Accessories, Trophies, Drum Corps, Twirling, Color Guard, Indoor Guard, Music, Travel, Directories, Bibliographies, Index, 3D Ed.",Kim R. Holston,44.95,9780786416509,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Mr. Keen, Tracer of Lost Persons - A Complete History And Episode Log of Radio's Most Durable Detective",Jim Cox,58.5,9780786417384,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Storytelling In The Pulps, Comics, And Radio - How Technology Changed Popular Fiction In America",Tim DeForest,30.95,9780786419029,MRB,2004
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid price
+Record: Beatles - Quarrymen,Hunter Davies,-4.95,071198526X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Beatles - Ticket To Ride: Inside The Beatles' 1964 Tour That Changed The World,Larry Kane,5.95,014303426X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Billboard Guide To Progressive Music,Bradley Smith,1.99,0823176652,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Clash - Complete Guide To Their Music,Tony Fletcher,4.95,184449506X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Clash - Return of The Last Gang In Town,Marcus Gray,14.95,063408240X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Gatton, Danny - Unfinished Business: The Life & Times of Danny Gatton",Ralph Heibutzki,12.95,087930748X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Goldmine Price Guide To Rock 'N' Roll Memorabilia,Mark Allen Baker,7.95,087341490X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Ill Tempered String Quartet - A Vademecum For The Amateur Musician,Lester Chafetz,30.95,9780786421510,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Jones, Spike - Off the Record",Jordan R. Young,-24.95,1593930127,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "King, B.B. - 'Blues Boy': The Life And Music of B.B. King",Sebastian Danchin,4.95,0578060176,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Lee, Peggy - Career Chronicle",Robert Strom,49.5,9780786419364,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "McGraw, Tim And The Dancehall Doctors",Tim McGraw & Martin Huxley,1.99,074346706X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid year
+Record: Metallica - Making of Metallica's Metallica,Mick Wall & Malcolm Dome,4.95,1896522343,MRB,25
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Radio Sound Effects - Who Did It, And How, In The Era of Live Broadcasting",Robert L. Mott,30.95,9780786422661,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Reinhardt, Django",Charles Delaunay,24.95,095062246X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Rock Around the Clock - The Record that Started the Rock Revolution,Jim Dawson,12.95,087930829X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Shadow - Walter G. Gibson & The Shadow,Thomas J. Shimeld,30.95,9780786423613,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Steely Dan - Complete Guide to Their Music,Brian Sweet,4.95,184449425X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: They Fought The Law - Rock Music Goes To Court,Stan Soocher,4.95,0128647319,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Turn! Turn! Turn! - The '60S Folk-Rock Revolution,Richie Unterberger,12.95,087930703X,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid price
+Record: "Turner, Ike - King of Rhythm",John Collis,-4.95,1904316247,MRB,2005
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Archives of the Airwaves, Volume 3",Roger C. Paulson,17.95,159393047X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid year
+Record: Comic Strips & Comic Books of Radio's Golden Age,Ron Lackmann,16.95,1593930216,MRB,1006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Davis, Sammy Jr. - In Black and White",Wil Haygood,5.95,037540354X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Donovan - Autobiography of Donovan: Hurdy Gurdy Man,Donovan Leitch,5.95,0312352122,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Epstein, Brian - In My Life: Epstein, Brian Story",Debbie Geller,4.95,031228862X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Magical Mystery Tours: My Life With The Beatles,Tony Bramwell,5.95,031233043X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Mercer, John Herndon - Portrait of Johnny: Life of John Herndon Mercer",Gene Lees,14.95,9780634099298,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Metallica - Metallica,Ross Halfin,19.95,190339984X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Ono, Yoko - Woman: The Incredible Life of Yoko Ono",Alan Clayson,5.95,184240220X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid year
+Record: Punk - The Heebie-Jeebies At CBGB's: A Secret History of Jewish Punk,Steven Lee Beeber,16.95,155652613X,MRB,26
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Radio Stars - An Illustrated Biographical Dictionary of 953 Performers, 1920 Through 1960",Thomas A. DeLong,44.95,9780786428342,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Rocklopedia Fakebandica,T. Mike Childs,5.95,031232944X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Springsteen, Bruce - Days of Hope and Dreams: Intimate Portrait of Bruce Springsteen",Frank Stefanko,9.95,082308387X,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Wireless Radio - A History,Lewis Coe,30.95,9780786426621,MRB,2006
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: After The Ball - Pop Music From Rag To Rock,Ian Whitcomb,13.95,087910063X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Barrett, Syd - Crazy Diamond",Mike Watkinson & Pete Anderson,11.95,9781846097393,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Beatles - Meet The Beatles: A Cultural History of The Band That Shook Youth, Gender And The World",Steven D. Stark,4.95,006000892X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beatles - Press Reports,W. Fraser Sandercombe,15.95,9781894959612,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Billboard Pop Charts 1955-1959,Joel Whitburn,49.95,089820092X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Chess Records - Machers And Rockers,Rich Cohen,5.95,039305280X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Clash - Rock Retrospectives,Ray Lowry & Ben Myers,19.95,9781906283360,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Collector's Guide To Heavy Metal, Volume 3: The Nineties [Includes Audio CD]",Martin Popoff,24.95,9781894959629,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Creedence Clearwater Revival - Bad Moon Rising: The Unauthorized History of Creedence Clearwater Revival,Hank Bordowitz,14.95,155652661X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Fleetwood Mac - Storms: My Life With Lindsey Buckingham And Fleetwood Mac,Carol Ann Harris,14.95,9781556527906,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Green, Grant - Rediscovering The Forgotten Genius of Jazz Guitar",Sharony Andrews Green,14.95,087930698X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Harrison, George - I Me Mine",George Harrison & Derek Taylor,14.95,0811859004,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Hit Songs, 1900-1955: American Popular Music of The Pre-Rock Era",Don Tyler,66.95,9780786429462,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Leaving The 20th Century - The Last Rites of Rock 'N' Roll,Dave Henderson & Howard Johnson,5.95,190279902X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "McRae, Carmen - Miss Jazz",Leslie Gourse,4.95,082307904X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Mom Have You Seen My Leather Pants?,Craig A. Williams,11.95,9780307342126,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Morrison, Jim - Jim Morrison: Life, Death, Legend",Stephen Davis,4.95,159240099X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Morrow, Cousin Brucie - Doo Wop: The Music, The Times, The Era [Author-Signed Edition + Bonus CD]",Bruce Morrow & Rich Maloof,19.95,9781402742767,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "On The Short Waves, 1923 - 1945 - Broadcast Listening In The Pioneer Days of Radio",Jerome S. Berg,35.95,9780786430291,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Radio Network Prime Time Programming, 1926 - 1967",Mitchell E. Shapiro,66.95,9780786431090,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Ramones - On The Road With The Ramones,Monte A. Melnick & Frank Meyer,19.95,9781847721037,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Reinhardt, Django - Django: The Life And Music of A Gypsy Legend",Michael Dregni,7.95,019516752X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Rockabilly Legends - They Called It Rockabilly Long Before They Called It Rock And Roll (Includes Bonus DVD),Jerry Naylor & Steve Halliday,26.95,142342042X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Sex Pistols - 90 Days At EMI,Brian Southall,9.95,9781846097799,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Sissle, Noble - Reminiscing With Noble Sissle And Eubie Blake",Robert Kimball & William Bolcom,5.95,081541045X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Velvet Underground - The Rough Guide To The Velvet Underground,Peter Hogan,12.95,9781843535881,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Waits, Tom - Many Lives of Tom Waits, The",Patrick Humphries,19.95,184449585X,MRB,2007
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: AC/DC - The Encyclopaedia,Malcolm Dome & Jerry Ewing,16.95,9781842404362,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Airwaves of New York - Illustrated Histories of 156 Am Stations In The Metropolitan Area, 1921 - 1996",Bill Jaker & Frank Sulek & Peter Kanze,30.95,9780786438723,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Allman, Duane - Skydog: The Duane Allman Story (Updated and Expanded)",Randy Poe,14.95,9780879309398,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Assoluta Voice In Opera, 1797-1847",Geoffrey S. Riggs,44.95,9780786440771,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Ballard, Florence - The Lost Supreme: The Life of Dreamgirl Florence Ballard",Peter Benjaminson,19.95,9781556527050,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Barnet, Charlie - An Illustrated Biography and Discography",Don Mather,35.95,9780786437610,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beatles - Beatles On Television (Rex Collections),Jeff Bench & Ray Tedman,34.95,9781905287512,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beatles - The Unreleased Beatles: Music & Film,Richie Unterberger,26.95,9780879308926,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Blues - NPR Curious Listener's Guide To Blues, The",David Evans,5.95,039953072X,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Chasin' That Devil Music - Searching For The Blues [With Bonus CD],Gayle Dean Wardlow,14.95,9780879305529,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cline, Patsy - Honky Tonk Angel: The Intimate Story of Patsy Cline",Ellis Nassour,14.95,9781556527470,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Des Barres, Pamela - Let's Spend The Night Together",Pamela Des Barres,14.95,9781556527890,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Des Barres, Pamela - Take Another Little Piece of My Heart",Pamela Des Barres,12.95,9781556528002,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dictionary of Music Titles - The Origins of The Names And Titles of 3,500 Musical Compositions",Adrian Room,35.95,9780786438907,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Doors, The - The Doors Revisited: The Fire Still Burns",John Lydon & Keith Zimmerman & Kent Zimmerman & Doug Sundling,13.95,9780825673542,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dylan, Bob - Forever Young",Douglas R. Gilbert,6.95,9780306815164,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dylan, Bob - The Songs He Didn't Write: Bob Dylan Under The Influence",Derek Barker,18.95,9781842404249,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Encyclopedia of American Radio, 1920 - 1960",Luther F. Sies,175.5,9780786429424,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Encyclopedia of Dead Rock Stars: Heroin, Handguns, and Ham Sandwiches",Jeremy Simmonds,18.95,9781556527548,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Falcone, Vincent - Frankly Just Between Us: My Life Conducting Sinatra's Music",Vincent Falcone & Bob Popyk,19.95,063409498X,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Floyd, Pink - Mind Over Matter 4: The Images of Pink Floyd [Fourth Edition]",Storm Thorgerson & Peter Curzon,24.95,9781846097638,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Great Radio Audience Participation Shows - Seventeen Programs From The 1940S And 1950S,Jim Cox,35.95,9780786440467,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Great Radio Soap Operas,Jim Cox,35.95,9780786438655,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Guerrilla Home Recording: How to Get Great Sound From Any Studio (Second Edition),Karl Coryat,19.95,9781423454465,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Halfway To Paradise - The Birth of British Rock,Alwyn W. Turner,39.95,9781851775538,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Heart - Heart in the Studio,Jake Brown,16.95,9781550228311,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: I Hate New Music,David Thompson,19.39,9780879309350,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "James, Rick - The Confessions of Rick James: Memoirs of a Super Freak",Rick James,15.95,9780979097638,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "James, Skip - I'd Rather Be the Devil: Skip James + the Blues",Stephen Calt,13.95,9781556527463,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Jazz Singers - The Ultimate Guide,Scott Yanow,17.95,9780879308254,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Join Together: Forty Years of the Rock Music Festival,Marley Brant,19.95,9780879309268,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Kinks - All Day And All of The Night,Doug Hinman,19.95,087930765X,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Kooper, Al - Backstage Passes And Backstabbing Bastards: Memoirs of A Rock 'N' Rock Survivor [Second Edition]",Al Kooper,16.95,9780879309220,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Krasnow, Hecky - Rudolph, Frosty, and Captain Kangaroo: The Musical Life of Hecky Krasnow - Producer of the World's Most Beloved Children's Songs",Judy Gail Krasnow,19.95,9781595800268,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: New York Dolls - Photographs By Bob Gruen,Bob Gruen (Photographs) & Legs McNeil (Commentary Collection) & Morrissey (Awd.),22.95,9780810972711,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Notable Moments of Women in Music,Jay Warner,16.95,9781423429517,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Opera Companies And Houses of The United States - A Comprehensive, Illustrated Reference",Karyl Lynn Zietz,44.95,9780786438990,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Opera Companies And Houses of Western Europe, Canada, Australia And New Zealand - A Comprehensive Illustrated Reference",Karyl Lynn Zietz,44.95,9780786438983,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Paul, Les - The Early Years of The Les Paul Legacy: 1915-1963",Robb Lawrence,29.95,9780634048616,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Pink Floyd - Black Strat: A History Of David Gilmour's Black Fender Stratocaster,Phil Taylor,26.95,9781423445593,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Pretty Vacant: A History of UK Punk,Phil Strongman,13.95,9781556527524,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932 - 1962",Martin Grams Jr.,66.95,9780786438716,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Radio's Morning Show Personalities - Early Hour Broadcasters And Deejays From The 1920S To The 1990S,Philip A. Lieberman,34.65,9780786440603,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Revolutions In Sound - Warner Bros. Records: The First Fifty Years,Warren Zanes,34.95,9780811866286,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Sly & The Family Stone - I Want to Take You Higher: The Life and Times of Sly & The Family Stone,Jeff Kaliss,19.95,9780879309343,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Songwriters - A Biographical Dictionary With Discographies,Nigel Harrison,66.95,9780786441020,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Supremes - The Story of The Supremes,Daryl Easlea,16.95,9781851775521,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Tell the Truth Until They Bleed: Coming Clean in the Dirty World of Blues and Rock 'n' Roll,Josh Alan Friedman,16.95,9780879309329,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Torme, Mel - A Chronicle of His Recordings, Books & Films",George Hulme,35.95,9780786437436,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Touch Me I'm Sick: The 52 Creepiest Love Songs You've Ever Heard,Tom Reynolds,10.95,9781556527531,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Waits, Tom - Wild Years: The Music and Myth of Tom Waits",Jay S. Jacobs,17.95,9781550227161,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Who - On Record: A Critical History, 1963-1998",John Atkins,30.95,9780786440979,MRB,2008
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: 25 Albums That Rocked The World,Chris Charlesworth & Peter Doggett,3.95,9781847726261,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: And Party Every Day - The Inside Story of Casablanca Records,Larry Harris with Curt Gooch and Jeff Suhs,19.95,9780879309824,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Band, The - Across The Great Divide: The Band And America",Barney Hoskyns,14.95,9781423414421,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Band, The - This Wheel's On Fire: Levon Helm And The Story of The Band",Levon Helm & Stephen Davis,14.95,9781556524059,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Battle of The Band Names,Bart Bull,11.95,9780810996403,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beatles - Beatlemania Forever,W. Fraser Sandercombe,22.95,9781894959780,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beatles - Beatles: A Diary,Barry Miles,19.95,9781847720825,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Beatles - The Lennon Prophecy: A New Examination of The Death Clues of The Beatles,Joseph Niezgoda,15.95,9780942257458,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Book Of Rock Quotes,Michael Heatley,3.95,9781847724182,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: By The Time We Got To Woodstock,Bruce Pollock,16.95,9780879309794,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Como, Perry - Perry Como: A Biography And Complete Career Record",Malcolm Macfarlane & Ken Crossland,49.95,9780786437016,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cooper, Alice - Alice Cooper: Golf Monster",Alice Cooper & Keith Zimmerman,4.95,9780307382658,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Cooper, Alice - The Illustrated Collectors Guide To Alice Cooper [10th Anniversary Edition]",Dale Sherman,22.95,9781894959933,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Des Barres, Pamela - I'm With The Band: Confessions of A Groupie",Pamela Des Barres,12.95,9781556525896,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Doors, The",The Doors & Ben Fong-Torres,14.95,140130303X,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dylan, Bob - Bob Dylan: Alias Anything You Please (Rex Collections)",Ty Silkman,24.95,9781905287833,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Dylan, Bob - Like A Rolling Stone: Bob Dylan At The Crossroads",Greil Marcus,5.95,158648382X,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dylan, Bob - Real Moments: Bob Dylan By Barry Feinstein",Barry Feinstein,29.95,9781847721051,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Dylan, Bob - Revolution In The Air: The Songs of Bob Dylan, 1957-1973",Clinton Heylin,24.95,9781556528439,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Eno, Brian - On Some Faraway Beach: The Life And Times of Brian Eno",David Sheppard,22.95,9781556529429,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Faithfull, Marianne - Memories, Dreams And Reflections",Marianne Faithfull,14.95,9780007245819,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Fong-Torres, Ben - Becoming Almost Famous: My Back Pages in Music, Writing, and Life",Ben Fong-Torres,12.95,0879308803,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Gershwin, George - The George Gershwin Reader",Robert Wyatt & John Andrew Johnson,6.95,9780195327113,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Go, Girl, Go! - The Women's Revolution In Music",James L. Dickerson,4.95,082567316X,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Grateful Dead - Relix, The Book: The Grateful Dead Experience",Toni Brown (Editor) & Jorma Kaukonen (Foreword) & Dennis McNally (Afterword),24.95,9780879309862,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Green, Al - Take Me To The River: An Autobiography",Al Green & Davin Seay,12.95,9781556528101,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Hart, Mickey - Songcatchers",Mickey Hart & K.M. Kostyal,6.95,079224107X,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Helm, Levon - The Levon Helm Midnight Ramble",Paul Laraia (Photography) & Levon Helm (Foreword),24.95,9780879309497,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: I'm The Greatest Star - Broadway's Top Musical Legends From 1900 To Today,Robert Viagas,24.95,9781557837271,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Jethro Tull - Flying Colours - The Jethro Tull Reference Manual, Remastered [Revised Edition]",Greg Russo,21.95,9780979184512,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "John, Elton - Elton: The Biography",David Buckley,12.95,9781556527944,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Jones, Tom - Arise Sir Tom Jones",Gwen Russell,19.95,9781844543229,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Kuti, Fela - Fela: This Bitch of A Life",Carlos Moor,13.95,9781556528354,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Led Zeppelin - Photographs By Neal Preston,Neal Preston & Cynthia Fox,24.95,9781847726490,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Metheny, Pat - The Pat Metheny Interviews",Richard Niles,14.95,9781423474692,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Morrison, Van - Van Morrison: No Surrender",Johnny Rogan,10.95,9780099431831,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Morrissey - Meetings With Morrissey [Very Limited Supply],Len Brown,8.95,9781847723765,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Novarro, Ramon - Ramon Novarro",Karen Schoemer,29.95,9780786446766,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Official Heavy Metal Book Of Lists, The",Eric Danville & Cliff Mott (Illustrations) & Lemmy (Foreword),13.95,9780879309831,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Phelps, Dee Dee - Vinyl Highway: Singing As Dick And Dee Dee",Dee Dee Phelps,14.95,9781934321751,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Presley, Elvis - Elvis And The Memphis Mafia",Alanna Nash & Billy Smith & Marty Lacker & Lamar Fike,12.95,9781845131289,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Richard, Cliff - My Life, My Way",Cliff Richard,24.95,075531588X,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Simone, Nina - Nina Simone: The Biography",David Brun-Lambert,22.95,9781845134303,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Sonic Boom - The History of Northwest Rock From Louie Louie To Smells Like Teen Spirit,Peter Blecha,14.95,9780879309466,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: U2 - U2: A Diary,Matt McGee,24.95,9781847721082,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Your Pretty Face is Going to Hell - The Dangerous Glitter of David Bowie, Iggy Pop and Lou Reed",Dave Thompson,14.95,9780879309855,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Zombies, The - Time of the Season - The Zombies Collector's Guide [Revised Edition]",Greg Russo,14.95,9780979184505,MRB,2009
+
+Semantic error in file: Music_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "James, Tommy - Me, the Mob, and the Music: One Helluva Ride with Tommy James & The Shondells (Autographed by Tommy James)",Tommy James & Martin Fitzpatrick,16.98,9781439128657,MRB,2010
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Brown, Charles Brockden and the Literary Magazine",Michael Cody,35.95,9780786417841,NEB,2004
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Celebrity Skin - Tattoos, Brands, And Body Adornments of The Stars",Jim Gerard,6.95,1160253231,NEB,2005
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Zippo - An American Legend,Avi R. Baer & Alexander Neumark,12.95,076240700X,NEB,2005
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Uleta Blues & Haikus,Paul Gleason,12.95,0894078146,NEB,2006
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Big Shots - The Men Behind The Booze,A.J. Baime & A. J. Baime,4.95,045120980X,NEB,2007
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Pees On Earth,Erica Jong & Annie Sprinkle,24.95,157687317X,NEB,2007
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Warhol, Andy & Makos, Christopher - Warhol / Makos In Context",Christopher Makos,39.95,9781576873311,NEB,2007
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Burroughs, Edgar Rice: The Exhaustive Scholar's and Collector's Descriptive Bibliography of American Periodical, Hardcover, Paperback, and Reprint Editions",Robert B. Zeuschner,29.95,9780786431137,NEB,2008
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Remember The 80s - Now That's What I Call Nostalgia,Richard Evans,19.95,9781906032128,NEB,2009
+
+Semantic error in file: Nostalgia_Eclectic_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Science Fiction and Fantasy Artists of the Twentieth Century - A Biographical Dictionary,Jane Frank,119.95,9780786434237,NEB,2009
+
+Semantic error in file: Old_Time_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Radio Adventures of Sam Spade,Martin Grams Jr.,17.95,097033107X,OTR,2007
+
+Semantic error in file: Old_Time_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Original Amos 'n' Andy, The - Freeman Gosden, Charles Correll and the 1928-1943 Radio Serial",Elizabeth McLeod,34.95,9780786445844,OTR,2009
+
+Semantic error in file: Old_Time_Radio_Books.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Waging The War of the Worlds - A History of the 1938 Radio Broadcast and Resulting Panic [Includes Original Script],John Gosling & Howard Koch (Radio Script),39.95,9780786441051,OTR,2009
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Baseball By The Numbers: How Statistics Are Collected, What They Mean, and How They Reveal the Game",Willie Runquist,30.95,9780786400065,SSM,1995
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - One-Armed Wonder: Pete Gray, Wartime Baseball, and the American Dream",William C. Kashatus,26.96,9780786400942,SSM,1995
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Pacific Coast League: A Statistical History, 1903-1957",Dennis Snelling,30.95,9780786400454,SSM,1995
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Baseball Pioneers: Ratings of Nineteenth Century Players,Charles F. Faber,30.95,9780786402953,SSM,1997
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Umpires: Classic Baseball Stories from the Men Who Made the Calls,John C. Skipper,30.95,9780786403646,SSM,1997
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Babe Chases 60: That Fabulous 1927 Season, Home Run by Home Run",John G. Robertson,28.8,9780786405039,SSM,1998
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Cochrane, Mickey: The Life of a Baseball Hall of Fame Catcher",Charlie Bevis,30.95,9780786405169,SSM,1998
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Fuchs, Judge And The Boston Braves, 1923-1935",Robert S. Fuchs & Wayne Soini,28.8,9780786404827,SSM,1998
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Marquard, Rube: The Life and Times of a Baseball Hall of Famer",Larry D. Mansch,26.96,9780786404971,SSM,1998
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Red Stockings of Cincinnati: Base Ball's First All-Professional Team and Its Historic 1869 and 1870 Seasons,Stephen D. Guschov,28.8,9780786404674,SSM,1998
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - They Tasted Glory: Among the Missing at the Baseball Hall of Fame,Wil A. Linkugel & Edward J. Pappas,30.95,9780786404841,SSM,1998
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Athletics of Philadelphia: Connie Mack's White Elephants, 1901-1954",David M. Jordan,26.96,9780786406203,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Baseball's Complete Players: Ratings of Total-Season Performance for the Greatest Players of the 20th Century,Michael Hoban,30.95,9780786406333,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Lopez, Al: The Life of Baseball's El Senor",Wes Singletary,30.95,9780786406562,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Moments In The Sun: Baseball's Briefly Famous,Mark McGuire & Michael Sean Gormley,30.95,9780786405497,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid price
+Record: "Baseball - Ott, Mel: The Little Giant of Baseball",Fred Stein,-28.8,9780786406586,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Schmidt, Mike: Philadelphia's Hall of Fame Third Baseman",William C. Kashatus,26.96,9780786407132,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Young Babe Ruth: His Early Life and Baseball Career, from the Memoirs of a Xaverian Brother",Brother Gilbert C.F.X.,28.8,9780786406524,SSM,1999
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid price
+Record: Baseball - Baseball's Other All-Stars,William F. McNeil,-30.95,9780786407842,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Collecting Baseball Memorabilia,Dan Zachofsky,22.46,9780786407613,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Dizzy And The Gas House Gang: The 1934 St. Louis Cardinals and Depression-Era Baseball,Doug Feldmann,26.96,9780786408580,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Fouled Away: The Baseball Tragedy of Hack Wilson,Clifton Blue Parker,26.96,9780786408641,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Macphails: Baseball's First Family of the Front Office,G. Richard McKelvey,30.95,9780786406395,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Rickey, Branch In Pittsburgh: Baseball's Trailblazing General Manager for the Pirates, 1950-1955",Andrew O'Toole,30.95,9780786408399,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Take Me Out To The Cubs Game: 35 Former Ballplayers Speak of Losing at Wrigley,John C. Skipper,30.95,9780786408108,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Voices From The Pastime: Oral Histories of Surviving Major Leaguers, Negro Leaguers, Cuban Leaguers and Writers, 1920-1934",Nick Wilson,30.95,9780786408245,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Waddell, Rube: The Zany, Brilliant Life of a Strikeout Artist",Alan H. Levy,26.96,9780786407866,SSM,2000
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - 1919 World Series: What Really Happened?,William A. Cook,28.8,9780786410699,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Blackball, The Black Sox, And The Babe: Baseball's Crucial 1920 Season",Robert C. Cottrell,30.95,9780786411641,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Bushville: Life and Time in Amateur Baseball,Jerry Kelly,22.46,9780786409792,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Chase, Hal: The Defiant Life and Turbulent Times of Baseball's Biggest Crook",Martin Donell Kohout,28.8,9780786410675,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Cooperstown Verses: Poems About Each Hall of Famer,Mark W. Schraf,22.46,9780786411481,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Diamonds In The Coalfields: 21 Remarkable Baseball Players, Managers, and Umpires from Northeast Pennsylvania",William C. Kashatus,30.95,9780786411764,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Early Baseball And The Rise of The National League,Tom Melville,26.96,9780786409624,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Idols of The Spring: Baseball Interviews About Preseason Training,Dan Zachofsky,26.96,9780786410798,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Munson, Thurman: A Baseball Biography",Christopher Devine,26.96,9780786410897,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Pastime In Turbulence: Interviews with Baseball Players of the 1940s,Brent Kelley,30.95,9780786409754,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Pittsburgh Crawfords,Jim Bankes,30.95,9780786409921,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - POW Baseball In World War II: The National Pastime Behind Barbed Wire,Tim Wolter,30.95,9780786411863,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Road To Cooperstown: A Critical History of Baseball's Hall of Fame Selection Process,James F. Vail,30.95,9780786410125,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Shadow Ball: A Novel of Baseball and Chicago,Peter M. Rutkoff,22.46,9780786409815,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Shoeless: The Life and Times of Joe Jackson,David L. Fleitz,26.96,9780786409785,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - This Day In Yankees History,Ronald L. Meinstereifel,30.95,9780786410026,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Waiting For Godot's First Pitch: More Poems from Baseball,Tim Peeler,22.46,9780786411276,SSM,2001
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Cardinal Points: Poems on St. Louis Cardinals Baseball,Joseph Stanton,22.46,9780786413737,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Catcher In The Wry: Baseball Poems,Dan Zamudio,22.46,9780786413140,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Cunning Kind of Play, A: The Cubs-Giants Rivalry, 1876-1932",Warren N. Wilbert,30.95,9780786411566,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Fleeter Than Birds: The 1985 St. Louis Cardinals and Small Ball's Last Hurrah,Doug Feldmann,26.96,9780786411658,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Late And Close: A History of Relief Pitching,Paul Votano,28.8,9780786411627,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Outrageous Fortune: What's Wrong with Hall of Fame Voting and How to Make It Statistically Sound,James F. Vail,30.95,9780786411269,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Prince At First: Fictional Autobiography of Baseball's Hal Chase,Ed Dinger,22.46,9780786413300,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - San Francisco Seals, The, 1946-1957: Interviews with 25 Former Baseballers",Brent P. Kelley,26.96,9780786411887,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - That Was Part of Baseball Then: Interviews with 24 Former Major League Baseball Players, Coaches and Managers",Victor Debs Jr.,30.95,9780786411788,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Western League: A Baseball History, 1885 through 1999",W.C. Madden & Patrick J. Stewart,30.95,9780786410033,SSM,2002
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - 1917 White Sox: Their World Championship Season,Warren N. Wilbert & William C. Hageman,30.95,9780786416226,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Ashes of Lou Gehrig And Other Baseball Essays,Sean Peter Kirst,30.95,9780786415786,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Busting 'Em And Other Big League Stories,Ty Cobb,30.95,9780786415991,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Commy: The Life Story of Charles A. Comiskey,G.W. Axelson,30.95,9780786415984,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Everything Happens In Chillicothe: A Summer in the Frontier League with Max McLeary, The One-Eyed Umpire",Mike Shannon,26.96,9780786416943,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - League of My Own, A: Memoir of a Pitcher for the All-American Girls Professional Baseball League",Patricia I. Brown,26.96,9780786414741,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Marsans, Armando: A Cuban Pioneer in the Major Leagues",Peter T. Toot,28.8,9780786415847,SSM,2003
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid price
+Record: Baseball - Base-Ball Ballads,Grantland Rice,-30.95,9780786420384,SSM,2004
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Baseball In Cincinnati: A History,Harry Ellard,30.95,9780786417261,SSM,2004
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Fix Is In: A History of Baseball Gambling and Game Fixing Scandals,Daniel E. Ginsburg,26.96,9780786419203,SSM,2004
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Mathewson, Christy: A Biography",Michael Hartley,28.8,9780786416530,SSM,2004
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Puerto Rico's Winter League: A History of Major League Baseball's Launching Pad,Thomas E. Van Hyning,30.95,9780786419708,SSM,2004
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - All-American Girls Professional Baseball League Record Book: Comprehensive Hitting, Fielding and Pitching Statistics",W.C. Madden,39.95,078640597X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Baseball Necrology, The - The Post Baseball Lives and Deaths of More Than 7,600 Major League Players and Others",Bill Lee,35.95,9780786442393,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - Baseball Players of The 1950s: A Biographical Dictionary of All 1,560 Major Leaguers",Rich Marazzi & Len Fiorito,49.95,078641281X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Baseball - Brooklyn Dodgers Reader,Andrew Paul Mele,34.95,078641913X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Baseball - Business of Baseball,Albert Theodore Powers,24.95,078641426X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Collins, Dottie Wiltse: Strikeout Queen of the All-American Girls Professional Baseball League",Carolyn M. Trombe,26.96,9780786421886,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - Cuban Baseball: A Statistical History, 1878-1961",Jorge S. Figueredo,67.95,078641250X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - Early Latino Ballplayers In The United States: Major, Minor and Negro Leagues, 1901-1949",Nick C. Wilson,29.95,078642012X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid price
+Record: "Baseball - Ee-Yah: The Life and Times of Hughie Jennings, Baseball Hall of Famer",Jack Smiles,-24.95,0786422025,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Fine-Looking Lot of Ball-Tossers, A: The Remarkable Akrons of 1881",Richard L. McBane,26.96,9780786420568,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Independent Carolina Baseball League, 1936-1938: Baseball Outlaws",R.G. (Hank) Utley & Scott Verner,28.8,9780786423187,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - International League: Year-by-Year Statistics, 1884-1953",Marshall D. Wright,49.95,078642267X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Lazzeri, Tony: A Baseball Biography",Paul Votano,26.96,9780786420148,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - Lean Years of The Yankees, 1965-1975",Robert W. Cohen,26.95,078641846X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Mack's, Connie '29 Triumph: The Rise and Fall of the Philadelphia Athletics Dynasty",William C. Kashatus,26.96,9780786421657,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: "Baseball - Mccarthy, Joe: Architect of the Yankee Dynasty",Alan H. Levy,29.95,078641961X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid year
+Record: "Baseball - Minor League Baseball Standings: All North American Leagues, Through 1999",Benjamin Barrett Sumner,64.95,0786407816,SSM,1005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: "Baseball - Richter's History And Records of Base Ball, The American Nation's Chief Sport",Francis C. Richter,30.95,9780786417278,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Baseball - Summer of '64: A Pennant Lost,William A. Cook,27.95,078641216X,SSM,2005
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Baseball Over The Air,Tony Silvia,35.95,9780786430666,SSM,2007
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Baseball - Baseball's Greatest Hit: The Story of Take Me Out to the Ball Game,Jennifer Trainer Thompson & Andy Strasberg & Bob Thompson & Tim Wiles,24.95,9781423431886,SSM,2008
+
+Semantic error in file: Sports_Sports_Memorabilia.csv.txt
+====================
+Error: Invalid ISNB-13
+Record: Bowling - Let's Go Bowling,Eric Dregni,6.95,9780760317945,SSM,2008
+
+Semantic error in file: Trains_Planes_Automobiles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Mustang,David Newhardt,4.95,076031389X,TPA,2005
+
+Semantic error in file: Trains_Planes_Automobiles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Retro Ride,Tony Swan,14.95,188805462X,TPA,2005
+
+Semantic error in file: Trains_Planes_Automobiles.csv.txt
+====================
+Error: Invalid ISNB-10
+Record: Corvette - Definitive Guide To The All-American Sports Car,Andrew Montgomery,14.95,159223061X,TPA,2006
+
